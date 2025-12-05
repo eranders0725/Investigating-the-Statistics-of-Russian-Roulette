@@ -1,0 +1,5 @@
+Russian Roulette can be simplified to a roll of a dice. Consider at the start of the game there are six positions for the bullet to be.
+The bullet is randomly assigned to one of the positions. Player 1 shoots on positions 1, 3, and 5. Player 2 shoots on positions 2, 4, and 6.
+From here we can easily see how the game is a 50/50.
+We need to remember to  only consider probabilities at the start and should not get lost in the noise of conditional probabilities at each state,
+as those represent updated probabilities as the game progresses, not initial probabilities. 
