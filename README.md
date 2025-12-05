@@ -6,4 +6,4 @@ Here we investigate these myths and show that it doesn't matter which order you 
 
 **2: A statistical demonstration via a Monte Carlo Simulation**
 
-**3: An intuitive perspective**
+**3: An intuitive explanation**
