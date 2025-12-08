@@ -2,7 +2,7 @@ Russian Roulette is a simple game of chance, a bullet is randomly loaded into on
 
 Here we investigate these myths and show that it doesn't matter which order you go in and that the result is a 50/50. In this repo I provide:
 
-**1: A simple mathematical proof outlining the probability of each outcome**
+**1: A simple mathematical explanation outlining the probability of each outcome**
 
 **2: A statistical demonstration via a Monte Carlo Simulation**
 
